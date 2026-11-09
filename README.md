@@ -80,6 +80,8 @@ customer-churn-business-analysis/
 │
 ├── presentations/
 │   └── business_presentation.pptx
+|____ requirements.txt
+|____ capstone_analysis.ipynb
 │
 └── README.md
 ```
